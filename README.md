@@ -1,6 +1,6 @@
 	
 <p align="center">
-  <img src="https://github.com/agsvensson/github-search/blob/main/docs/GitHub-Mark.png?raw=true" alt="Logo"/>
+  <img src="https://github.com/agsvensson/github-search/blob/master/docs/GitHub-Mark.png?raw=true" alt="Logo"/>
 </p>
 
 # GitHub Profile Search
